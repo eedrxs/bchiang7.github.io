@@ -24,8 +24,5 @@
     "gulp-imagemin": "6.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "3.0.2"
-  },
-  "engines": {
-    "node": "18.x"
   }
 }
