@@ -12,15 +12,15 @@ social:
   - title: email
     url: mailto:brittany.chiang@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/eedrxs
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/eedrxs
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/eedris
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/eedrxs
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/eedris
 
 # Build settings
 markdown: kramdown
