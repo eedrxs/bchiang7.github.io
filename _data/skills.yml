@@ -1,33 +1,34 @@
 languages:
-  - item: JavaScript (ES6)
   - item: TypeScript
+  - item: JavaScript (ES6)
   - item: HTML
   - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: Solidity
 
 frameworks:
-  - item: Ember & Glimmer
   - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
+  - item: Vue
+  - item: Angular
+  - item: Next.js
+  - item: Nuxt
+  - item: NodeJS
+  - item: Express
+  - item: Ionic
   - item: Wordpress
-  - item: Timber
+  - item: Tailwind CSS
+  - item: Chakra UI
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
   - item: Postman
+  - item: Chrome DevTools
+  - item: Firebase
   - item: MongoDB
+  - item: Docker
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+# design:
+#   - item: Figma
+#   - item: Photoshop
+#   - item: CorelDRAW
+#   - item: AdobeXD

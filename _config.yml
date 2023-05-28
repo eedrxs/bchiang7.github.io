@@ -13,14 +13,14 @@ social:
     url: mailto:alabialade@gmail.com
   - title: twitter
     url: https://twitter.com/eedrxs
-  - title: instagram
-    url: https://instagram.com/eedrxs
-  - title: codepen
-    url: http://codepen.io/eedris
   - title: github
     url: https://github.com/eedrxs
   - title: linkedin
     url: https://www.linkedin.com/in/eedris
+  - title: blog
+    url: http://blog.eedris.dev/
+  # - title: instagram
+  #   url: https://instagram.com/eedrxs
 
 # Build settings
 markdown: kramdown

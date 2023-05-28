@@ -34,6 +34,32 @@
       margin: 0 3px;
       vertical-align: text-bottom;
     }
+
+    .underline-link {
+      position: relative;
+      display: inline-block;
+      &:after {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        background: $black;
+        content: '';
+        opacity: 0;
+        transition: height 0.3s, opacity 0.3s, transform 0.3s;
+        transform: translateY(-5px);
+      }
+      &:hover,
+      &:focus {
+        &:after {
+          height: 2px;
+          border-radius: 3px;
+          opacity: 1;
+          transform: translateY(-2px);
+        }
+      }
+    }
   }
   &__links {
     @include weird-medium {
