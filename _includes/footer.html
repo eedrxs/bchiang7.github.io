@@ -13,7 +13,11 @@
     {% for link in site.social %}
     <a href="{{link.url}}" target="_blank" title="{{link.title}}">
       <span class="text">{{link.title}}</span>
+      {% if link.title != "blog" %}
       <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+      {% elsif link.title == "blog" %}
+      <img src="{{site.baseurl}}/img/social/{{link.title}}.png" alt="{{link.title}}">
+      {% endif %}
     </a>
     {% endfor %}
   </div>
