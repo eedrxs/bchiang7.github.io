@@ -2,12 +2,12 @@
 name: Idris Abdul-Lateef
 title: Idris Abdul-Lateef | Front-End Software Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://eedris.dev/
+url: https://eedris.xyz/
 baseurl: ''
 email: alabialade@gmail.com
-cover: https://eedris.dev/img/og.png
-logo: https://eedris.dev/img/emojis/technologist.png
-resume: https://eedris.dev/resume.pdf
+cover: https://eedris.xyz/img/og.png
+logo: https://eedris.xyz/img/emojis/technologist.png
+resume: https://eedris.xyz/resume.pdf
 social:
   - title: email
     url: mailto:alabialade@gmail.com
@@ -18,7 +18,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/eedris
   - title: blog
-    url: https://blog.eedris.dev/
+    url: https://blog.eedris.xyz/
   # - title: instagram
   #   url: https://instagram.com/eedrxs
 
